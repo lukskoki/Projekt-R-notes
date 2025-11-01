@@ -92,9 +92,4 @@ Otvorite:
 - `chromadb/test.ipynb` - ChromaDB osnove
 - `langchain/test.ipynb` - LangChain RAG pipeline
 
-#### **RAG Aplikacija:**
-```bash
-cd rag
-python app.py
-```
 
